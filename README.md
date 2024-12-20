@@ -1,6 +1,5 @@
-## tonyweb 
-tonyweb is my website, i made it with two accounts, one for school and one for home.
+## tonyweb
 
-i finally got around to getting this site on github pages, took me a while but i got everything working.
+this repo has been joined with Mushroomguy12323/mysite
 
-this site has 3 main sections as of now: /, /jsbuttonclicker, and /jokes/terms
+please head there
